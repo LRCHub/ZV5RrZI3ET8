@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)",
+  "base_artist": "Shinsei kamattechan",
+  "createdAt": "2025-12-01T06:39:35.138495Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フロントメモリー - Front Memory",
+      "artist": "Emiko Suzuki",
+      "has_synced": true,
+      "path": "select/01_フロントメモリー_-_Front_Memory_Emiko_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フロントメモリー",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/02_フロントメモリー_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フロントメモリー",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/03_フロントメモリー_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フロントメモリー",
+      "artist": "鈴木瑛美子×亀田誠治",
+      "has_synced": true,
+      "path": "select/04_フロントメモリー_鈴木瑛美子×亀田誠治.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フロントメモリー feat.川本真琴",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/05_フロントメモリー_feat.川本真琴_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フロントメモリー feat. 川本真琴",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/06_フロントメモリー_feat._川本真琴_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/07_フロントメモリー_feat._ACAね(ずっと真夜中でいいのに。)_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)",
+      "artist": "神聖かまってちゃん/ACAね",
+      "has_synced": true,
+      "path": "select/08_フロントメモリー_feat._ACAね(ずっと真夜中でいいのに。)_神聖かまってちゃん_ACAね.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フロントメモリー",
+      "artist": "神聖かまってちゃん feat. ACAね",
+      "has_synced": true,
+      "path": "select/09_フロントメモリー_神聖かまってちゃん_feat._ACAね.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フロントメモリー [2023 Remaster]",
+      "artist": "神聖かまってちゃん feat. ACAね",
+      "has_synced": true,
+      "path": "select/10_フロントメモリー_[2023_Remaster]_神聖かまってちゃん_feat._ACAね.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "フロントメモリー (Instrumental)",
+      "artist": "神聖かまってちゃん feat. ACAね",
+      "has_synced": true,
+      "path": "select/11_フロントメモリー_(Instrumental)_神聖かまってちゃん_feat._ACAね.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "フロントメモリー",
+      "artist": "鈴木瑛美子",
+      "has_synced": true,
+      "path": "select/12_フロントメモリー_鈴木瑛美子.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "フロントメモリー feat. ACAね(ずっと真夜中でいいのに。)",
+      "artist": "Shinsei Kamattechan,ACAね",
+      "has_synced": true,
+      "path": "select/13_フロントメモリー_feat._ACAね(ずっと真夜中でいいのに。)_Shinsei_Kamattechan,ACAね.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "フロントメモリー",
+      "artist": "神聖かまってちゃん feat. 川本真琴",
+      "has_synced": true,
+      "path": "select/14_フロントメモリー_神聖かまってちゃん_feat._川本真琴.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フロントメモリー feat. 川本真琴",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_フロントメモリー_feat._川本真琴_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "「フロントメモリー」映画「恋雨」主題歌",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_02_「フロントメモリー」映画「恋雨」主題歌_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "フロントメモリー",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_03_フロントメモリー_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "フロントメモリー",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_04_フロントメモリー_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "フロントメモリー",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_05_フロントメモリー_神聖かまってちゃん.txt"
+    }
+  ]
+}
